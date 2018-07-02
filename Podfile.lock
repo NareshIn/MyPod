@@ -1,0 +1,16 @@
+PODS:
+  - ARSLineProgress (2.2.1)
+
+DEPENDENCIES:
+  - ARSLineProgress
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - ARSLineProgress
+
+SPEC CHECKSUMS:
+  ARSLineProgress: b344944496913e98d8fe7bab94ea5d488fbf41fb
+
+PODFILE CHECKSUM: 04b55c88d6f2361f24f8f67c0d794370e23f400c
+
+COCOAPODS: 1.5.3
