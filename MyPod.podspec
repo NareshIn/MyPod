@@ -1,5 +1,4 @@
 Pod::Spec.new do |s|
-
 # 1
 s.platform = :ios
 s.ios.deployment_target = '10.0'
@@ -11,10 +10,10 @@ s.requires_arc = true
 s.version = "0.1.0"
 
 # 3
-s.license = { :type => "MIT", :file => "LICENSE" }
+s.license = { :type => 'MIT', :file => 'LICENSE' }
 
 # 4 - Replace with your name and e-mail address
-s.author = { "Naresh" => "nareshpamojuios@gmail.com" }
+s.author = { 'Naresh' => 'nareshpamojuios@gmail.com'}
 
 # For example,
 # s.author = { "Joshua Greene" => "jrg.developer@gmail.com" }
@@ -28,14 +27,14 @@ s.homepage = "https://github.com/NareshIn/MyPod"
 
 
 # 6 - Replace this URL with your own Git URL from "Quick Setup"
-s.source = { :git => "https://github.com/NareshIn/MyPod.git", :tag => "#{s.version}"}
+s.source = { :git => "https://github.com/NareshIn/MyPod.git", :tag => s.version.to_s}
 
 # For example,
 # s.source = { :git => "https://github.com/JRG-Developer/RWPickFlavor.git", :tag => "#{s.version}"}
 
 
 # 7
-s.framework = "UIKit"
+s.framework = 'UIKit'
 s.dependency 'ARSLineProgress'
 
 # 8
