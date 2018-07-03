@@ -14,6 +14,7 @@
 		85FC344020EA4D58003F8527 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85FC343F20EA4D58003F8527 /* ViewController.swift */; };
 		85FC344220EA4E7C003F8527 /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 85FC344120EA4E7C003F8527 /* Storyboard.storyboard */; };
 		85FC344720EA4EF1003F8527 /* Media.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 85FC344620EA4EF1003F8527 /* Media.xcassets */; };
+		85FE676F20EB513B00EA6E9E /* SumOF.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85FE676E20EB513B00EA6E9E /* SumOF.swift */; };
 		AF6374A6D81A5E618ABE5719 /* Pods_MyPod.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0E634D9342D7CC5B12A7A4E8 /* Pods_MyPod.framework */; };
 /* End PBXBuildFile section */
 
@@ -43,6 +44,7 @@
 		85FC343F20EA4D58003F8527 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		85FC344120EA4E7C003F8527 /* Storyboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Storyboard.storyboard; sourceTree = "<group>"; };
 		85FC344620EA4EF1003F8527 /* Media.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Media.xcassets; sourceTree = "<group>"; };
+		85FE676E20EB513B00EA6E9E /* SumOF.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumOF.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				85FC342820EA4CD4003F8527 /* MyPod.h */,
 				85FC342920EA4CD4003F8527 /* Info.plist */,
 				85FC343F20EA4D58003F8527 /* ViewController.swift */,
+				85FE676E20EB513B00EA6E9E /* SumOF.swift */,
 				85FC344120EA4E7C003F8527 /* Storyboard.storyboard */,
 				85FC344520EA4ED0003F8527 /* Resources */,
 			);
@@ -306,6 +309,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				85FE676F20EB513B00EA6E9E /* SumOF.swift in Sources */,
 				85FC344020EA4D58003F8527 /* ViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
